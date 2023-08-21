@@ -1,8 +1,8 @@
 const accountID= 144575
 let acEmail = "pankaj@google.com"
-var acPassword = "mumbai4545" //old method for variable assignment
+var acPassword = "mumbai4545" //old method for variable assignment, and issue in block and function scope
 acCity = "Mumbai"
-let acState; //undefined
+let acState; //undefined //pre memory reservation
 
 // accountID=3455
 
